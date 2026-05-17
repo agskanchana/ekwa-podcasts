@@ -2,7 +2,7 @@
 /**
  * Plugin Name: EKWA Podcasts
  * Description: Custom post type for podcast episodes with featured image, audio file, and carousel shortcode.
- * Version:     1.0.1
+ * Version:     1.0.2
  * Author:      EKWA
  * License:     GPL-2.0+
  * Text Domain: ekwa-podcasts

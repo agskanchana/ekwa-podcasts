@@ -403,6 +403,43 @@
 	color: #333;
 }
 
+/* Share Buttons */
+.ekwa-share-buttons {
+	display: flex;
+	gap: 10px;
+	margin-top: 16px;
+	flex-wrap: wrap;
+}
+
+.ekwa-share-btn {
+	display: inline-flex;
+	align-items: center;
+	gap: 7px;
+	padding: 9px 20px;
+	border-radius: 6px;
+	font-size: 14px;
+	font-weight: 600;
+	text-decoration: none;
+	color: #fff;
+	transition: opacity 0.2s, transform 0.15s;
+	line-height: 1;
+}
+
+.ekwa-share-btn:hover {
+	opacity: 0.88;
+	transform: translateY(-1px);
+	color: #fff;
+	text-decoration: none;
+}
+
+.ekwa-share-facebook {
+	background: #1877f2;
+}
+
+.ekwa-share-x {
+	background: #000;
+}
+
 /* ==========================================================================
    Episode Archive Template
    ========================================================================== */
